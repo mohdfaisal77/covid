@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197648517016",
+    "project_id": "insta-store-e04d1",
+    "storage_bucket": "insta-store-e04d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197648517016:android:3d5381334594ea3e7f4ded",
+        "android_client_info": {
+          "package_name": "com.faisal.insta_store_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3DlqU--3S5GxKDZCpW9NwW0kcNxNttvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
